@@ -42,7 +42,7 @@ Currently pursuing **BCA** while working at **Amrita Vishwa Vidyapeetham**, with
 - Role-based verification for Gate Security, Teachers, and Hostel Wardens.  
 - Reduced redundant checks across departments.  
 - Optimized scanning/search flows with resilient networking and error handling.  
-- [Google Play Link](#)
+- [Google Play Link](https://play.google.com/store/apps/details?id=com.myamrita.swagatham&hl=en)
 
 ### ICTS — Asset Lifecycle Management (Amrita College)
 **Tech:** Flutter, Dart, GetX, Dio, REST API  
